@@ -1,2 +1,39 @@
-# Senethma_Thenuri
-The Hotel Room Management System allows customers to register, login, view rooms, book and cancel reservations, and make payments. Admin manages rooms, staff, customers, and reports. Staff handle bookings and customer details. The system ensures efficient room allocation, secure data storage, and report generation.e
+Hotel Room Management System
+ 📌 Description
+This is a Java GUI based Hotel Room  management system.
+1.	Customer Features
+•	Register account
+•	Login / Logout
+•	View available rooms
+•	Book room
+•	Cancel booking
+•	View booking history
+•	Make payment
+
+2.	Staff Features
+
+•	Login / Logout
+•	View bookings
+•	Update booking
+•	Delete booking
+•	Manage rooms
+•	View payments
+
+3.	Admin Features
+
+•	Login / Logout
+•	Manage customers
+•	Manage rooms (Add / Update / Delete)
+•	Manage staff
+•	Generate reports
+
+ Technologies
+
+•	Java
+•	Swing
+•	MySQL
+
+ How to Run
+
+Open project in IDE
+Run Main.java
